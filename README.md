@@ -3,15 +3,6 @@
 Real-time 2D simulation of gravitational interactions between multiple celestial bodies using Pygame.
 
 
-## Features
-
-- Real-time physics simulation with gravitational forces
-- Interactive controls for pausing, rewinding, and fast-forwarding
-- Multiple camera modes: follow origin, center of mass, or individual bodies
-- Vector visualization for velocity and acceleration
-- Orbital traces showing body paths
-- UI displaying simulation time, FPS, and controls
-
 ## How to Run
 
 1. Make sure Pyhton is installed. Newer versions might not work with `pygame`. This was tested using Python 3.10.
