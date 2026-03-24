@@ -43,9 +43,9 @@ While running:
 - **C**: Follow center of mass
 - **B**: Follow individual bodies
 
-    While following bodies:
-    - **UP**: Select next body to follow
-    - **DOWN**: Select previous body to follow
+While following bodies:
+- **UP**: Select next body to follow
+- **DOWN**: Select previous body to follow
 
 
 ### Other keybinds
